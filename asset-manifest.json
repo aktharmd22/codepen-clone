@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aktharmd22/codepen-clone/static/css/main.ab54d3d5.chunk.css",
+    "main.js": "/aktharmd22/codepen-clone/static/js/main.90421874.chunk.js",
+    "main.js.map": "/aktharmd22/codepen-clone/static/js/main.90421874.chunk.js.map",
+    "runtime-main.js": "/aktharmd22/codepen-clone/static/js/runtime-main.033d5944.js",
+    "runtime-main.js.map": "/aktharmd22/codepen-clone/static/js/runtime-main.033d5944.js.map",
+    "static/css/2.eb80d3a0.chunk.css": "/aktharmd22/codepen-clone/static/css/2.eb80d3a0.chunk.css",
+    "static/js/2.7c763dfc.chunk.js": "/aktharmd22/codepen-clone/static/js/2.7c763dfc.chunk.js",
+    "static/js/2.7c763dfc.chunk.js.map": "/aktharmd22/codepen-clone/static/js/2.7c763dfc.chunk.js.map",
+    "static/js/3.d989e8d5.chunk.js": "/aktharmd22/codepen-clone/static/js/3.d989e8d5.chunk.js",
+    "static/js/3.d989e8d5.chunk.js.map": "/aktharmd22/codepen-clone/static/js/3.d989e8d5.chunk.js.map",
+    "index.html": "/aktharmd22/codepen-clone/index.html",
+    "static/css/2.eb80d3a0.chunk.css.map": "/aktharmd22/codepen-clone/static/css/2.eb80d3a0.chunk.css.map",
+    "static/css/main.ab54d3d5.chunk.css.map": "/aktharmd22/codepen-clone/static/css/main.ab54d3d5.chunk.css.map",
+    "static/js/2.7c763dfc.chunk.js.LICENSE.txt": "/aktharmd22/codepen-clone/static/js/2.7c763dfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.033d5944.js",
+    "static/css/2.eb80d3a0.chunk.css",
+    "static/js/2.7c763dfc.chunk.js",
+    "static/css/main.ab54d3d5.chunk.css",
+    "static/js/main.90421874.chunk.js"
+  ]
+}
